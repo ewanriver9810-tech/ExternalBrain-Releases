@@ -1,0 +1,15 @@
+{
+  "version": "1.2.4",
+  "notes": "Cadence 1.2.4 更新",
+  "pub_date": "2026-09-24T12:35:46.503971Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVGdPL1JEMEhQS0lBYVA3eSs4VEF6ZUE1RkNwR3FuV1JKRXE2ZHJucSs2eno0N21LaEZMU2tuaWVnSzZQYTh0ZnNOU29vdmFPWnRFWEtFTGZKS0RyQ3g2M3RjV2Y1MXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjUzMzM4CWZpbGU6Q2FkZW5jZS5hcHAudGFyLmd6CXZlcnNpb246MS4yLjQKTHFWQko4OVRvOE0xRzN2TnhvcVcxUjU4dDJNQUpmRUNhZ2wvSlIzSnBGT2dBYjgxZnZNVkMweUY3TW9jRDVFV0hqTUQzMmFWMGxRcDgrY2lKVVdBRHc9PQo=",
+      "url": "https://raw.githubusercontent.com/ewanriver9810-tech/ExternalBrain-Releases/main/Cadence_aarch64.app.tar.gz"
+    },
+    "darwin-aarch64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVGdPL1JEMEhQS0lBYVA3eSs4VEF6ZUE1RkNwR3FuV1JKRXE2ZHJucSs2eno0N21LaEZMU2tuaWVnSzZQYTh0ZnNOU29vdmFPWnRFWEtFTGZKS0RyQ3g2M3RjV2Y1MXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjUzMzM4CWZpbGU6Q2FkZW5jZS5hcHAudGFyLmd6CXZlcnNpb246MS4yLjQKTHFWQko4OVRvOE0xRzN2TnhvcVcxUjU4dDJNQUpmRUNhZ2wvSlIzSnBGT2dBYjgxZnZNVkMweUY3TW9jRDVFV0hqTUQzMmFWMGxRcDgrY2lKVVdBRHc9PQo=",
+      "url": "https://raw.githubusercontent.com/ewanriver9810-tech/ExternalBrain-Releases/main/Cadence_aarch64.app.tar.gz"
+    }
+  }
+}
