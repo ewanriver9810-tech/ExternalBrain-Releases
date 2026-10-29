@@ -1,15 +1,15 @@
 {
-  "version": "1.11.2",
-  "notes": "ExternalBrain 1.11.2 更新",
-  "pub_date": "2026-10-29T03:50:21.526120Z",
+  "version": "1.11.3",
+  "notes": "ExternalBrain 1.11.3 更新",
+  "pub_date": "2026-10-29T04:05:20.139968Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVGdPL1JEMEhQS0s0WHgvT3JSMlFseVQxOVA5cVYvSGZkWEFtUXRObUk5em4vOHpLNHlLN3hLcVRUOEt5SEZURUk2UFhGRjJBUDd6cmgxenNXeDZFeGtLUG0yeDR5c1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjQ1ODE1CWZpbGU6RXh0ZXJuYWxCcmFpbi5hcHAudGFyLmd6CXZlcnNpb246MS4xMS4yCnFLajUrWFpUS3NBaERWa0lPWEJaeUtnT21GS0g5Ly8xREpjcTVYekpoK2ZvNXZwUXhLQ3U4NFBMUFl1djUzNFY5VU9GcDBnejJEVml5NGUxajgzZkJBPT0K",
-      "url": "https://raw.githubusercontent.com/ewanriver9810-tech/ExternalBrain-Releases/main/releases/1.11.2/ExternalBrain_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVGdPL1JEMEhQS0hDQUtYRk82SG0vVzdIYnArbTlLcFRuci9CbXh1QlFiSmlmOWRxQUxsdFY3SzVVc0plVzcyZFZ4VWNuT054MUtQaU5TYU9CZXY2eWMzQmlaM2Fscmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjQ2NzEzCWZpbGU6RXh0ZXJuYWxCcmFpbi5hcHAudGFyLmd6CXZlcnNpb246MS4xMS4zCnVBejVKa0Q3TkxaRTFkc3c2cVQ2U1ZpV25sZlRPMXBlcW9LdzZLVGNYcXlZVmlQY3lwU1AvZ0ErSVVOL3JYbnlMZXRqNm1FZVdNaERLV3FBSGJ0WUFBPT0K",
+      "url": "https://raw.githubusercontent.com/ewanriver9810-tech/ExternalBrain-Releases/main/releases/1.11.3/ExternalBrain_aarch64.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVGdPL1JEMEhQS0s0WHgvT3JSMlFseVQxOVA5cVYvSGZkWEFtUXRObUk5em4vOHpLNHlLN3hLcVRUOEt5SEZURUk2UFhGRjJBUDd6cmgxenNXeDZFeGtLUG0yeDR5c1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjQ1ODE1CWZpbGU6RXh0ZXJuYWxCcmFpbi5hcHAudGFyLmd6CXZlcnNpb246MS4xMS4yCnFLajUrWFpUS3NBaERWa0lPWEJaeUtnT21GS0g5Ly8xREpjcTVYekpoK2ZvNXZwUXhLQ3U4NFBMUFl1djUzNFY5VU9GcDBnejJEVml5NGUxajgzZkJBPT0K",
-      "url": "https://raw.githubusercontent.com/ewanriver9810-tech/ExternalBrain-Releases/main/releases/1.11.2/ExternalBrain_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVGdPL1JEMEhQS0hDQUtYRk82SG0vVzdIYnArbTlLcFRuci9CbXh1QlFiSmlmOWRxQUxsdFY3SzVVc0plVzcyZFZ4VWNuT054MUtQaU5TYU9CZXY2eWMzQmlaM2Fscmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjQ2NzEzCWZpbGU6RXh0ZXJuYWxCcmFpbi5hcHAudGFyLmd6CXZlcnNpb246MS4xMS4zCnVBejVKa0Q3TkxaRTFkc3c2cVQ2U1ZpV25sZlRPMXBlcW9LdzZLVGNYcXlZVmlQY3lwU1AvZ0ErSVVOL3JYbnlMZXRqNm1FZVdNaERLV3FBSGJ0WUFBPT0K",
+      "url": "https://raw.githubusercontent.com/ewanriver9810-tech/ExternalBrain-Releases/main/releases/1.11.3/ExternalBrain_aarch64.app.tar.gz"
     }
   }
 }
